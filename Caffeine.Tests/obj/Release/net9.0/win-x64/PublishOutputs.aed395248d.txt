@@ -1,0 +1,8 @@
+C:\my-coding-projects\caffeineConsumption\publish\win-x64\caffeineConsumption.runtimeconfig.json
+C:\my-coding-projects\caffeineConsumption\publish\win-x64\testhost.exe
+C:\my-coding-projects\caffeineConsumption\publish\win-x64\testhost.dll
+C:\my-coding-projects\caffeineConsumption\publish\win-x64\xunit.runner.visualstudio.testadapter.dll
+C:\my-coding-projects\caffeineConsumption\publish\win-x64\xunit.runner.reporters.netcoreapp10.dll
+C:\my-coding-projects\caffeineConsumption\publish\win-x64\xunit.runner.utility.netcoreapp10.dll
+C:\my-coding-projects\caffeineConsumption\publish\win-x64\Caffeine.Tests.exe
+C:\my-coding-projects\caffeineConsumption\publish\win-x64\caffeineConsumption.pdb

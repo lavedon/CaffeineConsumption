@@ -1,0 +1,1 @@
+C:\my-coding-projects\caffeineConsumption\src\bin\Release\net9.0\win-x64\publish\caffeineConsumption.exe

@@ -12,7 +12,6 @@ if (args.Length > 0 && !string.IsNullOrWhiteSpace(args[0]))
 else
 {
     filePath = @"C:\my-coding-projects\yaml\caffeine.yaml";
-    Console.WriteLine($"No file specified, using default: {filePath}");
 }
 
 try
