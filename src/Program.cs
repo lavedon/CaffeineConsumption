@@ -44,10 +44,12 @@ void CalculateAverage(Dictionary<string, DailyTotal> dailyTotals)
         .ToList();
 
     var lastFiveDays = orderedData.TakeLast(5).ToList();
+    var today = orderedData.Last();
 
     double average = lastFiveDays.Average(d => d.Total);
 
     Console.WriteLine($"5-Day Average: {average:F2}");
+    Console.WriteLine($"Today (or last time): {today.Total}");
 }
 
 string LoadFile(string fileName)
