@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Varq6rafYPc=",
+  "dgSpecHash": "4kMGA3VM3J0=",
   "success": true,
   "projectFilePath": "C:\\my-coding-projects\\caffeineConsumption\\caffeineConsumption.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\laved\\.nuget\\packages\\yamldotnet\\16.3.0\\yamldotnet.16.3.0.nupkg.sha512"
+  ],
   "logs": []
 }
